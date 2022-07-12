@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yudiKahn
-- 🏠 I'm living in Tzfat Israel
-- 🌱 I’m currently teaching react, node.js, html5, css3 and c#
+- 🏠 I'm 
+- 🌱 I’m currently
 - 📫 How to reach me ...
 
 <!---
